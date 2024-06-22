@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dilan</h1>
-<h3 align="center">Student at the College of Staten Island, studying Computer Science with an interest in Distributed/Cloud Computing.</h3>
+<h3 align="center">Student at the College of Staten Island, studying Computer Science with a growing interest in Distributed/Cloud Computing.</h3>
 
 - :thought_balloon: I'm currently interning at MetLife in a team centered around Data and AI with Azure
 
@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,css,figma,html,js,java,postgres,mysql,sqlite,nodejs,expressjs,flask" />
+    <img src="https://skillicons.dev/icons?i=git,react,css,figma,html,js,java,postgres,mysql,sqlite,nodejs,expressjs,flask, cpp" />
     <img src="https://skillicons.dev/icons?i=postman,py,vite,nginx,aws,azure" />
   </a>
 </p>
