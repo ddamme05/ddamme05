@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Dilan</h1>
+<h3 align="center">Student at the College of Staten Island, studying Computer Science with an interest in Distributed/Cloud Computing.</h3>
 
-<!--
-**ddamme05/ddamme05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :thought_balloon: I'm currently interning at MetLife in a team centered around Data and AI with Azure
 
-Here are some ideas to get you started:
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/dilansdamme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,css,figma,html,js,java,postgres,mysql,sqlite,nodejs,expressjs,flask" />
+    <img src="https://skillicons.dev/icons?i=postman,py,vite,nginx,aws,azure" />
+  </a>
+</p>
