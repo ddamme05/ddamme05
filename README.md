@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dilan</h1>
-<h3 align="center">Student at the College of Staten Island, studying Computer Science with a growing interest in Distributed/Cloud Computing.</h3>
+<h3 align="center">Software Engineer. Backend, Full-Stack, DevTools, APIs. Based in NYC.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
